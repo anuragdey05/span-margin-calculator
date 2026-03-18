@@ -1,4 +1,4 @@
-# SPAN Margin Calculator Documentation
+# SPAN Margin Calculator Documentation for Bullero Capital Internship 2025
 
 This calculator implements the SPAN (Standard Portfolio Analysis of Risk) methodology as per NSE guidelines for calculating margin requirements for derivatives portfolios.
 
